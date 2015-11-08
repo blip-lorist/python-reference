@@ -7,7 +7,7 @@
 - Save new packages: `pip freeze > PROJECT_DIRECTORY/requirements.txt`
 
 
-## Testing
+# Test Setup
 - Coverage and testing pips to save to requirements.txt
 `pip install coverage`
 `pip install nose`
